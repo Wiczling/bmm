@@ -1,5 +1,5 @@
 %% The data and codes for 
-% Title: Application of Bayesian Multilevel Modeling in Quantitative Structure-Retention Relationship Studies of Heterogeneous Compounds 
+%  Title: Application of Bayesian Multilevel Modeling in Quantitative Structure-Retention Relationship Studies of Heterogeneous Compounds 
 % Authors: Pawe³ Wiczling, Agnieszka Kamedulska, £ukasz Kubik
 % Adress: Department of Biopharmaceutics and Pharmacodynamics, Medical University of Gdañsk, Gen. J. Hallera 107, 80-416 Gdañsk, Poland
 % Data: 30/10/2020
